@@ -1,0 +1,5 @@
+# EEG 脑电 情感识别 常用数据集
+
+DEAP数据集下载链接：https://codestore.lixiaole.com/buy/2
+
+SEED数据集下载链接：https://codestore.lixiaole.com/buy/3
