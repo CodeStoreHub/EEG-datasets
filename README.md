@@ -6,4 +6,6 @@ SEED数据集下载链接：[SEED数据集](https://hallo.codestore.pro/buy/3)
 
 DREAMER数据集下载链接：[DREAMER数据集](https://hallo.codestore.pro/buy/4)
 
-CAS(ME)² 数据库下载链接：[CAS(ME)² 数据库](https://hallo.codestore.pro/buy/7)
+CAS(ME)²数据库下载链接：[CAS(ME)²数据库](https://hallo.codestore.pro/buy/7)
+
+AMIGOS数据集下载链接：[AMIGOS数据集](https://hallo.codestore.pro/buy/8)
