@@ -16,4 +16,4 @@ CAS(ME)²数据库下载链接：[CAS(ME)²数据库](https://hallo.codestore.pr
 
 CAS(ME)³数据库下载链接：[CAS(ME)³数据库](https://hallo.codestore.pro/buy/11)
 
-AMIGOS数据集下载链接：[AMIGOS数据集](https://hallo.codestore.pro/buy/8)
+AMIGOS数据集下载链接：[AMIGOS数据集](https://hallo.codestore.pro/buy/13)
