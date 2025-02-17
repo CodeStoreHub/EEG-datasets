@@ -19,3 +19,5 @@ CAS(ME)³数据库下载链接：[CAS(ME)³数据库](https://hallo.codestore.pr
 SMIC数据集下载：[SMIC数据集](https://hallo.codestore.pro/buy/14)
 
 AMIGOS数据集下载链接：[AMIGOS数据集](https://hallo.codestore.pro/buy/13)
+
+HCI-Tagging数据集下载链接：[HCI-Tagging数据集](https://hallo.codestore.pro/buy/15)
