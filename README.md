@@ -2,7 +2,7 @@
 
 DEAP数据集下载链接：[DEAP数据集](https://hallo.codestore.pro/buy/2)
 
-SEED数据集下载链接：[SEED数据集](https://hallo.codestore.pro/buy/3)
+SEED代码数据下载链接：[SEED代码数据](https://hallo.codestore.pro/buy/3)
 
 SEED-V数据集下载链接：[SEED-V数据集](https://hallo.codestore.pro/buy/12)
 
