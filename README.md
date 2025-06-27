@@ -1,6 +1,6 @@
 # EEG 脑电 情绪 人脸 rPPG 数据集 下载
 
-DEAP数据集下载链接：[DEAP数据集](https://hallo.codestore.top/buy/2)
+DEAP数据集下载链接：[DEAP数据集](https://hallo.codestore.top/buy/18)
 
 SEED代码数据下载链接：[SEED代码数据](https://hallo.codestore.top/buy/3)
 
